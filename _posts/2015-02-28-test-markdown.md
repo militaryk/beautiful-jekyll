@@ -1,3 +1,4 @@
 ****Welcome to my Website****
-This website is constructed with theuse of beautiful-jekyll
+
+This website is constructed with the use of beautiful-jekyll
 
